@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Привіт з гілки scripts!"
+echo "The practice started!"
